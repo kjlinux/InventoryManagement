@@ -1,0 +1,31 @@
+Produit banane
+Reference produit: 123
+Nom: banane
+Prix unitaire: 234
+Stock courant: 2125
+
+
+Produit tomate
+Reference produit: 23
+Nom: tomate
+Prix unitaire: 345
+Stock courant: 266
+
+Produit craie
+Reference produit: 544
+Nom: craie
+Prix unitaire: 4354
+Stock courant: 654
+
+Produit patate
+Reference produit: 112211221
+Nom: patate
+Prix unitaire: 55
+Stock courant: 92
+
+Produit BANANAN
+Reference produit: fd
+Nom: BANANAN
+Prix unitaire: 55
+Stock courant: 14
+
